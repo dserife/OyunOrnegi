@@ -1,0 +1,34 @@
+{
+	"egitimler":[
+			{
+				"id":"1",
+				"ad":"android eğitimi",
+				"saat":"160",
+				"egitmen":"şerif hoca",
+				"konular":"konukonu",
+				"sinif":"Lab 09"
+
+			},
+
+			{
+				"id":"2",
+				"ad":"python eğitimi",
+				"saat":"160",
+				"egitmen":"mustafa hoca",
+				"konular":"konukonu",
+				"sinif":"Lab 07"
+
+			},
+
+			{
+				"id":"3",
+				"ad":"web tasarım eğitimi",
+				"saat":"160",
+				"egitmen":"sibel hoca",
+				"konular":"konukonu",
+				"sinif":"Lab 08"
+
+			}
+
+		]
+}
